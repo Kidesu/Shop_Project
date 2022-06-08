@@ -1,0 +1,198 @@
+@import url('https://fonts.googleapis.com/css2?family=Raleway:wght@100&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Poppins:wght@300&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Inter:wght@100&display=swap');
+
+*{
+    padding: 0;
+    margin: 0;
+}
+.boleto{
+    color: red;
+    font-family: 'Inter', sans-serif;
+    font-style: normal;
+}
+.label{
+    background-color: #E5E5E5;
+    width: 375px;
+    height: 26px;
+    left: 0;
+    top: 171px;
+    padding: 0;
+    margin: 0;
+    margin-top: -3px;
+}
+.label2{
+    background-color: red;
+    width: 375px;
+    height: 21px;
+    left: 0;
+    top: 171px;
+    padding: 0;
+    margin: 0;
+    margin-top: -3px;
+   
+}
+.boleto2{
+    color: white;
+    font-family: 'Inter', sans-serif;
+    font-style: normal;
+    
+}
+.desenv{
+    /* ©Desenvolvido por INFOR G6 */
+
+
+position: absolute;
+width: 196px;
+height: 16px;
+left: 80px;
+top: 25px;
+
+
+font-style: normal;
+font-weight: 600;
+font-size: 14px;
+line-height: 16px;
+
+color: #383636;
+font-family: 'Raleway', sans-serif;
+}
+.back{
+    /* Rectangle 6072 */
+
+
+position: absolute;
+width: 375px;
+height: 58px;
+left: 0px;
+top: 286%;
+
+
+
+background: #D33E43 ;
+}
+.infor{
+    color: whitesmoke;
+    font-family: 'Raleway', sans-serif;
+    font-size: larger;
+
+}
+.footer{
+    background-color: red;
+    margin-top: 1150px;
+}
+.inf{
+    color: white;
+    font-family: 'Raleway', sans-serif;
+}
+.conosco{
+    color: white;
+    margin-left: 10px;
+    font-family: 'Raleway', sans-serif;
+}
+.caixa_texto{
+    width: 353px;
+    height: 40px;
+    margin-left: -3px;
+    color: grey;
+    font-family: 'Raleway', sans-serif;
+}
+.caixa_texto2{
+    width: 353px;
+    height: 60px;
+    margin-left: -3px;
+    color: grey;
+    font-family: 'Raleway', sans-serif;
+}
+.enviar{
+    margin-left: 10px;
+    color: white;
+    background-color: #89282B;
+    width: 151px;
+    height: 40px;
+    font-family: 'Raleway', sans-serif;
+}
+.titulo2{
+    /* Seleção de Ofertas */
+
+
+position: absolute;
+width: 153px;
+height: 24px;
+left: 25px;
+top: 247px;
+
+font-family: 'Poppins';
+font-style: normal;
+font-weight: 500;
+font-size: 16px;
+line-height: 24px;
+/* identical to box height */
+
+
+color: #000000;
+font-family: 'Poppins', sans-serif;
+}
+.titulo3{
+    /* Produtos Gamer */
+
+
+position: absolute;
+width: 132px;
+height: 24px;
+left: 28px;
+top: 610px;
+
+font-family: 'Poppins';
+font-style: normal;
+font-weight: 500;
+font-size: 16px;
+line-height: 24px;
+/* identical to box height */
+
+
+color: #000000;
+font-family: 'Poppins', sans-serif;
+}
+.titulo5{
+    /* Notebooks e Computadores */
+
+
+position: absolute;
+width: 228px;
+height: 24px;
+left: 28px;
+top: 990px;
+
+font-family: 'Poppins';
+font-style: normal;
+font-weight: 500;
+font-size: 16px;
+line-height: 24px;
+/* identical to box height */
+
+
+color: #000000;
+font-family: 'Poppins', sans-serif;
+}
+.titulo7{
+    /* Celulares */
+
+
+position: absolute;
+width: 77px;
+height: 24px;
+left: 28px;
+top: 1370px;
+
+font-family: 'Poppins';
+font-style: normal;
+font-weight: 500;
+font-size: 16px;
+line-height: 24px;
+/* identical to box height */
+
+
+color: #000000;
+font-family: 'Poppins', sans-serif;
+}
