@@ -1,7 +1,7 @@
 # Shop 💻📱🛒👩‍💻👨‍💻
 Projeto de `estudo de caso` sobre a criação do `frontend` de uma página de *E-commerce de Tecnologia*. Projeto **desenvolvido de forma gradual**
 
--OBS: Abra no Dev-Tools Com as Dimensões do Iphone x no Site
+**-OBS: Abra no Dev-Tools Com as Dimensões do Iphone x no Site**
 
 <!--<img src="https://s3.amazonaws.com/assets.mockflow.com/app/wireframepro/company/Ce96a86a8e437413c92fa585ceb433a4f/projects/Me4GRR4g8nb/pages/eeda8d04486840739e9bd1fb97666590/image/eeda8d04486840739e9bd1fb97666590.png?1649563036270" width="300" height="400"/>-->
 
